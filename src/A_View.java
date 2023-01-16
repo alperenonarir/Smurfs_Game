@@ -646,8 +646,8 @@ while(mazeGosterilsinMi==false);
         String a3= "Karakter:Azman,Kapi:C";                                                   
         String a4= "Karakter:Azman,Kapi:D";  
           
-      
-          File file = new File("C:\\Users\\ALPEREN\\Documents\\Projeler\\SmurfGame\\Harita.txt");
+  
+          File file = new File("C:\\Users\\ALPEREN\\Documents\\Projeler\\Smurfs_Game\\Harita.txt");
                 
           int lineNum = 0;
         
